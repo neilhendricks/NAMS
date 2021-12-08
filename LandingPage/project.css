@@ -1,0 +1,32 @@
+body {
+    background-image: url('11nft-auction1-videoSixteenByNineJumbo1600.jpg');
+  }
+
+
+  .btn {
+    border-radius: 40px;
+    color: white;
+    padding: 22px 80px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 21px;
+    cursor: pointer;
+  }
+
+  .hippo {
+      border-radius: 100px;
+      color: yellow;
+      margin-left: 580px;
+      margin-top: 90px;
+
+
+
+  }
+
+  .br {
+     display: block;
+     margin: 0;
+  }
+
